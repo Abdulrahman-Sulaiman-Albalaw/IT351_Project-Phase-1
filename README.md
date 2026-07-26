@@ -21,7 +21,6 @@ During the verification phase, I confirmed that the GitHub platform was function
 
 I also checked the Cisco Packet Tracer project from the GitHub repository. The project works as required, and the network design functions without problems.
 
-
 ### Student 4: [Mubarak turkey almurjan] (Software Features & Documentation)
 
 **1. Key Features of Cisco Packet Tracer:**
