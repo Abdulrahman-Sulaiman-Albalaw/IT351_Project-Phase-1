@@ -22,3 +22,23 @@ During the verification phase, I confirmed that the GitHub platform was function
 I also checked the Cisco Packet Tracer project from the GitHub repository. The project works as required, and the network design functions without problems.
 
 
+### Student 4: [Mubarak turkey almurjan] (Software Features & Documentation)
+
+**1. Key Features of Cisco Packet Tracer:**
+Cisco Packet Tracer is a powerful network simulation tool that helps us design, configure, and troubleshoot networks. The main advantages for our project are:
+* **Simulation Mode:** It allows us to view data packet transmission step-by-step to test connectivity.
+* **Device Variety:** It provides realistic routers, switches, and cables to mirror real-world networking environments.
+
+**2. Final Network Topology Interface:**
+I renamed all network devices to their final English labels inside the topology and ensured the design looks clear and organized.
+
+---
+
+## 📊 Group Contributions Table
+
+| Student Name | Assigned Role & Tasks in Phase 1 | Status |
+| :--- | :--- | :--- |
+| **Abdulrahman Sulaiman Albalawi** | Software installation, installation screenshots, and initial topology design. | **Completed** |
+| **Oday Othman Alharbi** | Designed IP subnets, documented addressing decisions, and created the future plan. | **Completed** |
+| **Mohammed Turki Alotaibi** | Documented team challenges, provided solutions, and verified all project links. | **Completed** |
+| **[Mubarak turkey almurja]** | Renamed topology devices, captured final interface screenshots, and documented software features. | **Completed** |
