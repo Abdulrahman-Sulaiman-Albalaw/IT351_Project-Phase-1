@@ -10,7 +10,23 @@ I downloaded and installed Cisco Packet Tracer version 9.0.0 on my computer to b
 **2. Network Topology Construction:**
 I created the initial network topology layout according to the project specifications. I selected and placed the main network nodes, including the routers and switches, and connected them using the initial wiring to form the baseline infrastructure for both campuses.
 
+### Student 2: Oday Othman Alharbi (IP Addressing & Future Plan)
 
+**1. IP Addressing Strategy:**
+I designed a private IP addressing plan to organize our network efficiently. Each location has its own subnet and default gateway to ensure security and logical separation:
+* **Computer Lab (LAN 1):** `172.16.10.0/24` — Gateway: `172.16.10.1`
+* **Admin Office (LAN 2):** `172.16.20.0/24` — Gateway: `172.16.20.1`
+* **Library (LAN 3):** `172.16.30.0/24` — Gateway: `172.16.30.1`
+* **Faculty Office (LAN 4):** `172.16.40.0/24` — Gateway: `172.16.40.1`
+* **WAN Connection:** `10.10.10.0/30` — To connect the Main Campus and Branch Campus routers.
+
+**2. Next Steps & Future Milestones:**
+In the next phase of the project (Phase 2), our team will implement the following tasks:
+* Assign the planned IP addresses to all 12 computers.
+* Configure the FastEthernet and Serial interfaces on both routers.
+* Use the `ping` command to test connectivity and ensure successful communication across the network.
+
+---
 
 ## Challenges and Verification
 ** Mohammed Turki Alotaibi ** 
