@@ -2,7 +2,7 @@
  IT351 Project Phase 1
 
 ## Challenges and Verification
-** Mohammed Turki Alotaibi
+** Mohammed Turki Alotaibi ** 
 
 During the implementation phase, one of the team members encountered a problem while building the network within Cisco Packet Tracer. They were having difficulty connecting devices, or the connections were unclear. We reviewed the network plans, verified the cable layout and connections, and made adjustments to resolve the issue, restoring functionality.
 
