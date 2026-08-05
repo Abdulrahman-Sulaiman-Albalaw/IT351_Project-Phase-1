@@ -49,7 +49,7 @@ I renamed all network devices to their final English labels inside the topology 
 
 ---
 
-## 📊 Group Contributions Table
+##  Group Contributions Table
 
 | Student Name | Assigned Role & Tasks in Phase 1 | Status |
 | :--- | :--- | :--- |
@@ -57,3 +57,21 @@ I renamed all network devices to their final English labels inside the topology 
 | **Oday Othman Alharbi** | Designed IP subnets, documented addressing decisions, and created the future plan. | **Completed** |
 | **Mohammed Turki Alotaibi** | Documented team challenges, provided solutions, and verified all project links. | **Completed** |
 | **[Mubarak turkey almurja]** | Renamed topology devices, captured final interface screenshots, and documented software features. | **Completed** |
+
+
+---
+# Phase 2: Network Implementation & Verification
+
+## Completed Tasks
+1. **Interfaces & IP Allocation:** Configured GigabitEthernet interfaces on routers and assigned static IP addresses to all 12 PCs across 4 LANs.
+2. **WAN Connection:** Activated `Serial10/3/0` interfaces between MainCampus and BranchCampus with clock rate configuration.
+3. **Static Routing:** Successfully added static routes (`ip route`) on both routers for cross-campus connectivity.
+4. **Verification:** Executed `ping` commands from LAN 1 to distant LANs, achieving 100% reachability (0% packet loss).
+
+---
+# Group Members (CRN: 50574)
+
+* **Student 1 (Leader):** Abdulrahman Sulaiman Albalawi (ID: S240051883)
+* **Student 2:** Oday Othman Alharbi (ID: s240031018)
+* **Student 3:** Mohammed Turki Alotaibi (ID: S230042360)
+* **Student 4:** Mubarak Turkey Almurjan (ID: S230040176)
